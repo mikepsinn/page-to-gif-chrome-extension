@@ -128,3 +128,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/.idea/.gitignore
+/.idea/deployment.xml
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/.idea/page-to-gif-chrome-extension.iml
+/.idea/php.xml
+/.idea/vcs.xml
